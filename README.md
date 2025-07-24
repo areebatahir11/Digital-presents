@@ -5,6 +5,8 @@
 **Digital Presents** is a full-stack **Web3 dApp** that lets users send personalized NFT gifts — represented by cute emojis — to friends and loved ones on the blockchain.  
 Built using **Solidity**, **Next.js**, and **Ethers.js**, it blends the joy of gifting with the decentralization of Ethereum.
 
+**Video Demo**
+https://drive.google.com/file/d/191y_rH6xfhBdwMfDAk37F1Sb4RAv9Uw7/view?usp=sharing
 
 ## 🚀 Features
 
