@@ -1,6 +1,6 @@
-import Navbar from "./components/navbar";
-import SendGift from "./components/SendGift";
-import ViewGifts from "./components/ViewGift";
+import Navbar from "../components/navbar";
+import SendGift from "../components/SendGift";
+import ViewGifts from "../components/ViewGift";
 
 export default function Home() {
   return (
