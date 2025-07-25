@@ -7,7 +7,7 @@ export const getProvider = () => {
   if (typeof window !== "undefined" && window.ethereum) {
     return new ethers.BrowserProvider(window.ethereum);
   } else {
-    throw new error("Metamask not installed!");
+    throw new Error("Metamask not installed!");
   }
 };
 export const GetContract = async () => {
