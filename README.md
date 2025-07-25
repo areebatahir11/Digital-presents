@@ -6,7 +6,7 @@
 Built using **Solidity**, **Next.js**, and **Ethers.js**, it blends the joy of gifting with the decentralization of Ethereum.
 
 **Video Demo**
-https://drive.google.com/file/d/191y_rH6xfhBdwMfDAk37F1Sb4RAv9Uw7/view?usp=sharing
+https://drive.google.com/file/d/1SuCJdJ8-GZEC1R5Izi0uV8eyAoMceY2A/view?usp=sharing
 
 ## 🚀 Features
 
